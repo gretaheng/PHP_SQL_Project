@@ -1,0 +1,100 @@
+c1|Wang_Fei|40|Female|Singer
+c2|Guo_Jingming|32|Male|Writer
+c3|Wen_Zhang|29|Male|Actor
+c4|Yang_Xiao|25|Female|Architect
+c5|Li_Xiaolu|42|Female|Actress
+c6|Yang_Ying|31|Female|Actress
+c7|Xie_Na|38|Female|Hostess
+c8|Jin_Xing|46|Female|Dancer
+c9|Xia_Beining|39|Male|Host
+c10|Yao_Di|27|Female|Actress
+c11|Jennifer Lopez|4|Singer|Singer
+c12|Brandon Knudson|11|Dancer|Dancer
+c13|Jennifer Perry|23|Singer|Actor
+c14|Lorraine Jones|75|Dancer|Actress
+c15|Joshua Brady|6|Singer|Writer
+c16|Betty Witherspoon|87|Dancer|Singer
+c17|Sally Wooten|18|Singer|Dancer
+c18|Sheila Caldwell|20|Dancer|Actor
+c19|Ralph White|59|Singer|Actress
+c20|Sharon George|58|Dancer|Writer
+c21|James Widen|72|Singer|Singer
+c22|Gary Rowell|28|Dancer|Dancer
+c23|Susan Farley|96|Singer|Actor
+c24|Jon Ankenman|36|Dancer|Actress
+c25|Darryl Treat|97|Singer|Writer
+c26|Debbie Ballard|39|Dancer|Singer
+c27|Virginia Marshall|50|Singer|Dancer
+c28|David Kirkpatrick|78|Dancer|Actor
+c29|Jessica Lovett|21|Singer|Actress
+c30|Barbara Williams|59|Dancer|Writer
+c31|Claudia Scott|2|Singer|Singer
+c32|Susan Moore|52|Dancer|Dancer
+c33|Scott Obrien|45|Singer|Actor
+c34|Benjamin Dickie|22|Dancer|Actress
+c35|Alan Scott|88|Singer|Writer
+c36|Kimberly Rouse|76|Dancer|Singer
+c37|Juanita Johnson|51|Singer|Dancer
+c38|Andrew Houston|65|Dancer|Actor
+c39|Eileen Imes|84|Singer|Actress
+c40|Damon Loeffel|83|Dancer|Writer
+c41|Jerry Arnold|92|Singer|Singer
+c42|Robert Rodriguez|10|Dancer|Dancer
+c43|William Edwards|62|Singer|Actor
+c44|Elizabeth Viramontes|89|Dancer|Actress
+c45|Kimberly Gillum|48|Singer|Writer
+c46|Susan Franklin|97|Dancer|Singer
+c47|Gene Halseth|75|Singer|Dancer
+c48|Susan Cotton|76|Dancer|Actor
+c49|Tanya Ford|8|Singer|Actress
+c50|Carol Fox|85|Dancer|Writer
+c51|Noel Meyer|28|Singer|Singer
+c52|Neil Justis|89|Dancer|Dancer
+c53|Mary Williams|58|Singer|Actor
+c54|Andrea Valenzuela|70|Dancer|Actress
+c55|Ralph Belk|20|Singer|Writer
+c56|Augustine Peterson|90|Dancer|Singer
+c57|Katrina Master|56|Singer|Dancer
+c58|Sara Drinkard|37|Dancer|Actor
+c59|Wanda Wilham|87|Singer|Actress
+c60|Maria Stanick|75|Dancer|Writer
+c61|Donna Battles|83|Singer|Singer
+c62|Albert Beierle|64|Dancer|Dancer
+c63|Martin Stansel|40|Singer|Actor
+c64|Stewart Medley|74|Dancer|Actress
+c65|Peter Schaff|85|Singer|Writer
+c66|Joe Forrester|29|Dancer|Singer
+c67|Brandon Imes|81|Singer|Dancer
+c68|Thomas Williams|75|Dancer|Actor
+c69|Cecil Shoun|2|Singer|Actress
+c70|Carla Lawrence|69|Dancer|Writer
+c71|Ted Scholler|82|Singer|Singer
+c72|Lorraine Ricciardi|81|Dancer|Dancer
+c73|Kimberly Hiner|91|Singer|Actor
+c74|Michael Manteca|30|Dancer|Actress
+c75|Donald Brown|90|Singer|Writer
+c76|Crystal Kelley|77|Dancer|Singer
+c77|Lawrence Crist|68|Singer|Dancer
+c78|Jean Walters|8|Dancer|Actor
+c79|Charlotte Vicini|13|Singer|Actress
+c80|Leonor Wilson|75|Dancer|Writer
+c81|Daniel Smith|62|Singer|Singer
+c82|Steven Pike|85|Dancer|Dancer
+c83|Ted Collier|75|Singer|Actor
+c84|Aaron Nall|57|Dancer|Actress
+c85|Caridad Lloyd|33|Singer|Writer
+c86|Tanika Robinson|74|Dancer|Singer
+c87|Suzanne Sheroan|98|Singer|Dancer
+c88|Bobby Grigsby|44|Dancer|Actor
+c89|John Rosenthal|84|Singer|Actress
+c90|Claude Barrett|1|Dancer|Writer
+c91|Wayne Aquino|73|Singer|Singer
+c92|John Graham|87|Dancer|Dancer
+c93|Robert Mcluen|44|Singer|Actor
+c94|Janie Nesby|6|Dancer|Actress
+c95|Maria Favorite|79|Singer|Writer
+c96|Beverly Wycoff|84|Dancer|Singer
+c97|Carol Decker|72|Singer|Dancer
+c98|Michael Delacruz|55|Dancer|Actor
+c99|Dorthy Lieb|54|Singer|Actress
+c100|Edwin Vedovelli|16|Dancer|Writer

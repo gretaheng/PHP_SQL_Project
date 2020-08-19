@@ -1,0 +1,10 @@
+101|Anna|Highschool	
+102|Garry|Bachelor
+103|Lu|Bachelor
+104|Jean|Master
+105|Aria|PhD
+106|Greta|Middleschool
+107|Ella|Master
+108|Ray|PhD
+109|Lolla|Highschool
+110|Jay|Highschool

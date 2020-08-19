@@ -1,0 +1,10 @@
+China_Daily|worldwide|newspaper
+Toutiao|national|social_media
+Sina|national|social_media
+Beijing_wan_bao|local|newspaper
+Hunan_TV_chanel|national|TV
+Radio_HK_Pro|local|Radio
+Renmin|national|social_media
+Fengxing|national|social_media
+Beijing_TV_chanel_II|local|TV
+Yanyiquan_zhouka|national|magazine

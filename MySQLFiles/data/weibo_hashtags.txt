@@ -1,0 +1,10 @@
+wangfeiaffair|13|1000
+xietingfeiaffair|16|999999
+believeme|9|1000000000
+drugproblem|11|68
+sorry|5|100000
+icandobetter|12|98
+forgiveme|9|988
+red|3|8888888
+honest|6|847201
+telltruth|9|290

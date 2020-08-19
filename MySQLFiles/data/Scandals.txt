@@ -1,0 +1,10 @@
+1|2010-01-17|affair|0|Wang fei is having affair with Xie Tingfeng
+2|2011-12-04|drug|0|Wen Zhang and Wangfei are caught using drugs
+3|2012-10-27|plagerization|0|Guo Jingming plagerized
+4|2015_03_02|crime|0|Yang Xiao hit and run
+5|2018-02-04|crime|0|Jin xing mudered her husband
+6|2017-08-08|affair|1|Xia Beining and Yao Di are having affair
+7|2014-07-08|affair|1|Li Xiaolu is having an affair with a singer
+8|2013-09-09|crime|1|Xie Na is a theft	
+9|2007-02-05|drug|1|Guo jingming was caught using drugs
+10|2018-04-01|crime|0|Li Xiaolu abuses her child

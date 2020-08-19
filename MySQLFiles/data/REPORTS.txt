@@ -1,0 +1,16 @@
+China_Daily|1
+China_Daily|2
+Toutiao|1
+Sina|9
+Toutiao|3
+Sina|3
+China_Daily|4
+Renmin|8
+Renmin|1
+Radio_HK_Pro|1
+Fengxing|4
+Renmin|4
+Beijing_TV_chanel_II|7
+Toutiao|7
+Sina|7
+Yanyiquan_zhouka|5
