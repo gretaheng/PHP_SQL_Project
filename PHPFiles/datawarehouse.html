@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>data_warehouse</title>
+    <link rel="import" href="index.html">
+</head>
+<body>
+<div class="header">
+    <h1 style="font-family:verdana;">See what analysis we could do</h1>
+</div>
+<div class="topnav">
+    <a href="index.html">Home</a>
+    <a href="semifinal/front.html">Query</a>
+    <a href="modi/modification.php">Modification</a>
+    <a class="active" href="#home">DataWarehouse</a>
+</div>
+<p class="ware" ><font size="5">
+    We could build a topic model for those Weibo which has more positive comments than the negative comments.
+    The analysis would show the trend of popular Weibo and help public relation agents deal with crisis or scandals
+    and receive as many positive responses as possible. I would suggest build a topic model for Weibo with positive
+    comments. We could further group those Weibo by the scandal type to track the words that are used most frequently.
+    To achieve this functionality, I will need Scandal, Talks_about, Weibo, and Comments tables, and select Weibo which
+    has c_type = ‘positive’(after join with Comments table).</font>
+</p>
+<p class="ware"><font size="5">
+    Run a random forest model to find the features of celebrities who involved in scandals more than once.
+    I would use information about celebrities in the Celebrities and Weibo_users tables as independent variables.
+    Apart from that, I would also add an independent variable, which is the percent of past weibo that has more
+    positive comments to show the celebrities influence on social media. Thus, three tables woule be used, Celebrities,
+    Weibo_users, Comments, Scandals and Get_involved_in.</font>
+</p>
+</body>
+</html>
